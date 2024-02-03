@@ -1,8 +1,8 @@
 namespace dotnetAPI.Entities;
 
-public class SuperHero
+public class SideKick
 {
-    public int Id { get; set; }
+    public int SidekickId { get; set; }
     public required string Name { get; set; } = string.Empty;
     public string FirstName { get; set; } = string.Empty;
     public string LastName { get; set; } = string.Empty;

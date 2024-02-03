@@ -230,3 +230,4 @@
 /Users/jeromegreder/Desktop/web.tmp/exercises/dotnetAPI/bin/Debug/net8.0/Npgsql.dll
 /Users/jeromegreder/Desktop/web.tmp/exercises/dotnetAPI/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /Users/jeromegreder/Desktop/web.tmp/exercises/dotnetAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jeromegreder/Desktop/web.tmp/exercises/dotnetAPI/obj/Debug/net8.0/dotnetAPI.sourcelink.json
